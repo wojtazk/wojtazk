@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://tryhackme.com/p/wojtazk">
+<!-- <a href="https://tryhackme.com/p/wojtazk">
  <img src="https://tryhackme-badges.s3.amazonaws.com/wojtazk.png" alt="TryHackMe Image Badge" />
-</a>
+</a> -->
 
 
 ```
